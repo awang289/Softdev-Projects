@@ -18,6 +18,12 @@ Takes queries written in standard English and returns answers based on data scra
 Allows users to post articles under author names, search for articles by author, and post comments 
 #### https://github.com/afischer/SoftDev_Proj02
 
+### API Project
+#### Mark Norwich
+#### Description 
+Allows users to search for restaurants and returns results routed through Yelp.
+#### https://github.com/awang289/Andreas-Mark-API
+
 ## Mini Projects
 
  * login
