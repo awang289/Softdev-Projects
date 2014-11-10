@@ -7,19 +7,19 @@ Period 6
 ## Main Projects
 
 ### Language Interpreter/Data Scraping
-#### Genji Noguchi, Sophie Gershon, Sunnam Quispe
+#### Andreas Wang, Genji Noguchi, Sophie Gershon, Sunnam Quispe
 #### Description
 Takes queries written in standard English and returns answers based on data scraping search results
 #### https://github.com/genjinoguchi/softdev_homework_1
 
 ### Blogging Engine
-#### Andrew Fischer, Philipp Steinmann, Matthew Cook
+#### Andreas Wang, Andrew Fischer, Philipp Steinmann, Matthew Cook
 #### Description
 Allows users to post articles under author names, search for articles by author, and post comments 
 #### https://github.com/afischer/SoftDev_Proj02
 
 ### API Project
-#### Mark Norwich
+#### Andreas Wang, Mark Norwich
 #### Description 
 Allows users to search for restaurants and returns results routed through Yelp.
 #### https://github.com/awang289/Andreas-Mark-API
