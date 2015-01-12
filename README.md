@@ -6,6 +6,12 @@ Period 6
 
 ## Main Projects
 
+### Qamba
+#### Andreas Wang, Cooper Weaver, Eric Morgenstern, Mark Norwich
+#### Description
+Music Upload/Rating/Sharing/Accessing App
+#### https://github.com/Peglegs/Qamba
+
 ### Language Interpreter/Data Scraping
 #### Andreas Wang, Genji Noguchi, Sophie Gershon, Sunnam Quispe
 #### Description
